@@ -1,0 +1,6 @@
+{
+  "name": "Chinese Quotation Converter",
+  "description": "AI-powered Chinese-to-English professional quotation converter and currency calculator for MOCOF furniture supply chains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
